@@ -17,3 +17,7 @@ tsc --out bundle.js app.ts
 You can watch files, too!
 
 tsc --watch --out bundle.js app.ts
+
+## TypeScript configuration
+
+tsc --init
