@@ -1,1 +1,1 @@
-class Two {}
+class Two{}
