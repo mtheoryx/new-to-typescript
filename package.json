@@ -1,7 +1,7 @@
 {
-  "name": "workspace",
+  "name": "new-to-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just a sandbox for learning TypeScript for a new project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/mtheoryx/new-to-typescript.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "David R Poindexter III <drpoindexter@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mtheoryx/new-to-typescript/issues"
   },
