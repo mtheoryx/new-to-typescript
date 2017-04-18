@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --out bundle.js app.ts",
+    "dev:watch": "tsc --watch --out bundle.js app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

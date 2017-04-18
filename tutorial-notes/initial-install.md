@@ -13,3 +13,7 @@ This outputs app.js, in ES5
 Try outputting to a bundle file
 
 tsc --out bundle.js app.ts
+
+You can watch files, too!
+
+tsc --watch --out bundle.js app.ts
