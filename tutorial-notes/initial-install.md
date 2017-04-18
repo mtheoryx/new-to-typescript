@@ -9,3 +9,7 @@ Create a dummy class, then transpile
 tsc app.ts
 
 This outputs app.js, in ES5
+
+Try outputting to a bundle file
+
+tsc --out bundle.js app.ts
