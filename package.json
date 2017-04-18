@@ -4,6 +4,7 @@
   "description": "Just a sandbox for learning TypeScript for a new project",
   "main": "index.js",
   "scripts": {
+    "build": "tsc --out bundle.js app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
