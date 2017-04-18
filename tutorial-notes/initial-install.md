@@ -21,3 +21,17 @@ tsc --watch --out bundle.js app.ts
 ## TypeScript configuration
 
 tsc --init
+
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
+
+This lets discovery find out the .ts files, and build them
