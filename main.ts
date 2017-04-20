@@ -1,3 +1,3 @@
 import './two';
 
-class App{}
+class App {}
