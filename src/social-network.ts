@@ -1,8 +1,8 @@
 export interface Person {
-    name: String;
+    name: string;
 }
 
 export interface SocialNetwork {
-    title: String;
+    title: string;
     getUsers(): Person[];
 }
