@@ -2,7 +2,7 @@ import { SocialNetwork } from './social-network';
 
 import * as _ from 'lodash';
 
-class App implements SocialNetwork {
+export class App implements SocialNetwork {
     title = 'Some big website';
     
     getUsers() {
@@ -11,5 +11,3 @@ class App implements SocialNetwork {
         ];
     };
 }
-
-new App();
