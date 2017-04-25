@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mtheoryx/new-to-typescript#readme",
   "dependencies": {
-    "@types/lodash": "^4.14.62"
+    "@types/lodash": "^4.14.62",
+    "reflect-metadata": "^0.1.10"
   }
 }

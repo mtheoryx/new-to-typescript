@@ -6,7 +6,9 @@
         "noImplicitAny": false,
         "sourceMap": false,
         "outDir": "./dist",
-        "noEmitOnError":true
+        "noEmitOnError": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     },
     "exclude": [
         "node_modules",
